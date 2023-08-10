@@ -1,6 +1,6 @@
 # Projeto VrumVrumVrum
 
-![preview](./.github/Vrum.mkv)
+![preview](./.github/Vrum.gif)
 
 > Projeto Simulação de uma corrida de carros multi-thread.
 
@@ -18,8 +18,6 @@ V = V0+at
 S=S0+Vt
 onde V,  V0 representam a velocidade final e inicial, respectivamente, a representa a aceleração, t representa a diferença de tempo entre dois frames, S e S0 representam o deslocamento final e inicial, respectivamente.
 
-[🔗 Clique aqui para acessar](https://arthurcovelo.github.io/ProjetoWeb_Profile/)
-
 ## 🛠 Tecnologias
 
 - Java
@@ -30,3 +28,5 @@ onde V,  V0 representam a velocidade final e inicial, respectivamente, a represe
 ## 🖤 Contato
 
 Arthurcovelo@gmail.com
+
+[🔗 Clique aqui para acessar](https://arthurcovelo.github.io/ProjetoWeb_Profile/)
