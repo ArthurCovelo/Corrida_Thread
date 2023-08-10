@@ -1,6 +1,6 @@
 # Projeto VrumVrumVrum
 
-![preview](./.github/Vrum.mkv)
+![preview](./.github/Vrum.gif)
 
 > Projeto Simulação de uma corrida de carros multi-thread.
 
