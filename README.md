@@ -30,3 +30,6 @@ onde V,  V0 representam a velocidade final e inicial, respectivamente, a represe
 Arthurcovelo@gmail.com
 
 [🔗 Clique aqui para acessar](https://arthurcovelo.github.io/ProjetoWeb_Profile/)
+
+![preview](./.github/LogotipoIF.png) IFRJ - Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro
+Campus Engenheiro Paulo de Frontin
