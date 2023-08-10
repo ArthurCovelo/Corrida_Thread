@@ -31,5 +31,4 @@ Arthurcovelo@gmail.com
 
 [🔗 Clique aqui para acessar](https://arthurcovelo.github.io/ProjetoWeb_Profile/)
 
-![preview](./.github/LogotipoIF.png) IFRJ - Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro
-Campus Engenheiro Paulo de Frontin
+![Logo](https://ci3.googleusercontent.com/mail-sig/AIorK4zIk8iy_K3zIDqB5PLPI3BDA-dCX6krM-WbA2QX2fEOTTx9gj6-oVjJz778ptcHxuqPSB26sQw)
