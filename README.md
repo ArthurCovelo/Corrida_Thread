@@ -21,8 +21,7 @@ onde V,  V0 representam a velocidade final e inicial, respectivamente, a represe
 ## 🛠 Tecnologias
 
 - Java
-- Java Swing (Interfaces Gráficas) 
-- Multi thread
+- Multi-thread
 - Git e Github
 
 ## 🖤 Contato
