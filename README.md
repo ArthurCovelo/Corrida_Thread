@@ -1,4 +1,4 @@
-# Projeto VrumVrumVrum
+# Projeto CorridaThread Visual 
 
 ![preview](./.github/Vrum.gif)
 
